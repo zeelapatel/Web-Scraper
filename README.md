@@ -24,4 +24,4 @@ This project consists of a web scraper to extract faculty email addresses from a
 
 ## Send Email
 
-- Open outlook app in your windows and log in to your accout to send automat mail
+- Open outlook app in your windows and log in to your accout to send automate mail
