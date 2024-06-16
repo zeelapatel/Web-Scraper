@@ -1,11 +1,14 @@
+
+# ----------------------------------------gmail---------------------------------------
+
 # import smtplib
 # import ssl
 # from email.message import EmailMessage
 
 # # Define email sender and receiver
-# email_sender = 'saiart2754@gmail.com'
-# email_password = 'qisp rbww zthe igsn'
-# email_receiver = 'zeelpatel2754@gmail.com'
+# email_sender = 'your mail'
+# email_password = 'your password'
+# email_receiver = 'recivermail'
 
 # # Set the subject and body of the email
 # subject = 'Check out my new video!'
@@ -38,8 +41,8 @@
 #     mail_item.BodyFormat = 1
 
 #     mail_item.Body = "Hello, How are you? I am sending this email for testing purpose."
-#     mail_item.Sender = "patel.zeel3@northeastern.edu"
-#     mail_item.To = "zeelapatel2754@gmail.com"
+#     mail_item.Sender = "sender mail"
+#     mail_item.To = "recivermail"
 
 #     mail_item.Display()
 #     mail_item.Save()
