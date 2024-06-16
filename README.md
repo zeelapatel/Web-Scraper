@@ -20,5 +20,5 @@ This project consists of a web scraper to extract faculty email addresses from a
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/zeelapatel/Web-Scrapper.git](https://github.com/zeelapatel/Web-Scrapper.git)
-   cd university-email-scraper-sender
+   [git clone [https://github.com/zeelapatel/Web-Scrapper.git](https://github.com/zeelapatel/Web-Scrapper.git)](https://github.com/zeelapatel/Web-Scrapper.git)
+
