@@ -26,3 +26,5 @@ This project consists of a web scraper to extract faculty email addresses from a
 
 - Open outlook app in your windows and log in to your accout to send automate mail
 - For Gmail uncomment upper part and use your gmail and 16digit password 
+
+refrence AISCIENCES
